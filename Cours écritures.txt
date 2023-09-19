@@ -1,0 +1,40 @@
+Mettre le plus de commentaires possibles
+pour un dossier jamais de majuscule, on commence jamais par un chiffre pas de caracteres speciaux accent tt ca et pas d'espace
+Le JS s'appuie sur du html 
+html: structure 
+css: deco&design
+js: fonctionnement
+ctrl + s sauvegarde
+
+En html:
+
+<!-- Commentaire -->
+L'inspecteur est utile en JS
+! + entré est une partie qui permet de relier les fichiers entre eux
+la balise body est notre affichage 
+<body> : ouvrante
+</body> : fermante
+pour tout avoir une balise ouvrante et une fermante
+<h1> : balise de titre
+relier le fichier JS a la fin du body html avant le </body>
+pour integrer un script js <script src="CHEMIN VERS LE FICHIER">
+
+En JS:
+
+Commentaires comme en C //une ligne /** plusieurs lignes 
+"use strict" est pour dire que javascript ne laissera passer aucune erreur pour etre plus precis
+il faut donc l'utiliser
+les variables ont des catégories comme en c (int,char...)
+le ; comme en C
+signe = on affecte une valeur
+console.log(variable) : affiche une variable dans la console
+Chaine de caractere est une variable de type string (il y a les "")
+console.log(typeoff variable) : affiche le type de variable 
+let pour declarer une variable(mieux que var)
+nombre est une variable de type number
+Variables premiere lettre pas de majuscule mais apres on peut
+derniere variable est la variable booléenne (true ou false)
+concatenation assembler plusieurs variables entre elles (phrases par exemple)
+Entier et decimal sont des variables de type number 
+parseint(variable) transforme un string d'un nombre en number (nombre entier)
+parseint(variable) pareil mais avec un nombre decimal
