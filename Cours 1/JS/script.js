@@ -28,3 +28,4 @@ let nbrDecimal = "17.3";
 console.log(typeof nbrEntier); // string
 nbrEntier = parseInt(nbrEntier); //nbrEntier etait "15" et deviens 15
 nbrDecimal = parseFloat(nbrDecimal); // nbrDecimal etait "17.3" et deviens 17.3
+const x = 4;

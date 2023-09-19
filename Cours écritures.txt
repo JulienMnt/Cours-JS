@@ -38,3 +38,25 @@ concatenation assembler plusieurs variables entre elles (phrases par exemple)
 Entier et decimal sont des variables de type number 
 parseint(variable) transforme un string d'un nombre en number (nombre entier)
 parseint(variable) pareil mais avec un nombre decimal
+une variable déclarée avec const est une constante 
+
+Cours 2
+
+Tester une egalité:
+    == tester une égalite (5=="5" est vrai)
+    === tester égalite et meme type (5 === 5 n'est pas vrai)
+
+if, else, else if comme en c avec la meme syntaxe
+le et est représente par &&
+le ou est représenté par ||
+Il y a des switch case come en c ils testent l'égalité et pas le superieur et inferieur
+le switch case:
+    ouvrir avec le switch
+    puis decrire les case (case valeur:)
+    mettre le default a la fin (default:) si aucune des cases est définie
+    pas oublier le break a la fin des cases pour quitter le switch
+
+Fonctions:
+    Comme en C
+    function nomfonction(variables a implémenter){instructions}
+    
