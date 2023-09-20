@@ -60,3 +60,17 @@ Fonctions:
     Comme en C
     function nomfonction(variables a implémenter){instructions}
     
+Cours 3
+
+Tableau
+    En JS le tableau s'apelle un array
+    pour faire un tableau let nomtableau = [variable 1, variable 2 ...]
+    pour voir le nombre de variables d'un tableau console.log(nomdutableau.length)
+    Pour aller au premier element nomdutableau[0]
+
+Boucles
+    boucle for, repeter une actions plusieurs fois 
+    for(let i = 0; i < nombre de fois vouli ; i++)
+
+!= veut dire different de 
+    
